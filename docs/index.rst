@@ -1,17 +1,12 @@
-Welcome to awesome-pycharm's documentation!
-===========================================
+===============
+awesome-pycharm
+===============
 
-Xyz pdq arg is arg arg.
+Useful resources for learning and using
+`PyCharm <https://www.jetbrains.com/pycharm>`_, the Python IDE from
+JetBrains.
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
