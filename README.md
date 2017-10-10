@@ -22,7 +22,7 @@ from within PyCharm. *(2017/08/04)*
 * [Python Beginner Tutorial 1 - Install and Setup PyCharm IDE](https://youtu.be/0y5XlNeFxNk) 
 covers the instillation of the latest version of Python 3 and instillation 
 and setup of the Free JetBrains PyCharm IDE. After watching this video you 
-will know how to run your very first python script (Hello World).
+will know how to run your very first python script (Hello World). *(2017-05-19)*
 
 ---
 
@@ -30,7 +30,7 @@ will know how to run your very first python script (Hello World).
 
 * [MongoDB Plugin for IntelliJ](https://plugins.jetbrains.com/plugin/7141-mongo-plugin) 
 integrates MongoDB Servers with database/collections tree, Query Runner and 
-Shell console.
+Shell console. *(2017-12-12)*
 
 ---
 
