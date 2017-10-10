@@ -1,3 +1,4 @@
 sphinx
 sphinx_rtd_theme
 livereload
+git+git://github.com/rtfd/sphinx_rtd_theme/@master

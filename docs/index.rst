@@ -8,5 +8,6 @@ JetBrains.
 
 .. toctree::
     :maxdepth: 1
-    :caption: Contents:
+    :caption: Contents
 
+    working_with_imports/index
