@@ -20,9 +20,9 @@ from within PyCharm. *(2017/08/04)*
 ## Videos
 
 * [Python Beginner Tutorial 1 - Install and Setup PyCharm IDE](https://youtu.be/0y5XlNeFxNk) 
-covers the instillation of the latest version of Python 3 and instillation 
+covers the installation of the latest version of Python 3 and installation 
 and setup of the Free JetBrains PyCharm IDE. After watching this video you 
-will know how to run your very first python script (Hello World). *(2017-05-19)*
+will know how to run your very first Python script. *(2017-05-19)*
 
 ---
 
