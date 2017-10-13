@@ -15,7 +15,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 [pyenv](https://github.com/pyenv/pyenv) (the Python version management tool) 
 from within PyCharm. *(2017/08/04)*
 
----
 
 ## Videos
 
@@ -24,15 +23,11 @@ covers the installation of the latest version of Python 3 and installation
 and setup of the Free JetBrains PyCharm IDE. After watching this video you 
 will know how to run your very first Python script. *(2017-05-19)*
 
----
-
 ## Plugins
 
 * [MongoDB Plugin for IntelliJ](https://plugins.jetbrains.com/plugin/7141-mongo-plugin) 
 integrates MongoDB Servers with database/collections tree, Query Runner and 
 Shell console. *(2017-12-12)*
-
----
 
 # Contributing
 
