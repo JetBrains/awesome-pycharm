@@ -9,12 +9,20 @@ an IDE for Python.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-## Tutorials
+## Articles
 
 * [Integrating PyCharm with Pyenv](http://victormartinez.co/2017/08/04/integrating-pycharm-with-pyenv/)  shows how to use 
 [pyenv](https://github.com/pyenv/pyenv) (the Python version management tool) 
-from within PyCharm. *(2017/08/04)*
+from within PyCharm. *(2017/08/04, Viktor Martinez)*
 
+* [Python Tool Review: Using PyCharm for Python Development - and More](https://www.caktusgroup.com/blog/2017/07/05/python-tool-review-using-pycharm-python-development-and-more/?utm_content=58335036&utm_medium=social&utm_source=twitter) 
+reviews PyCharm as an IDE, discussing performance, Python, Django, Git, 
+code-checking, and more. *(2017/07/05, Dan Poirier from Caktus Group)
+
+## Tutorials
+
+* [MongoDB QuickStart with Python](http://freemongodbcourse.com) is a free 
+course by Michael Kennedy which features PyCharm. (2017/10/11, Michael Kennedy) 
 
 ## Videos
 
@@ -22,6 +30,15 @@ from within PyCharm. *(2017/08/04)*
 covers the installation of the latest version of Python 3 and installation 
 and setup of the Free JetBrains PyCharm IDE. After watching this video you 
 will know how to run your very first Python script. *(2017-05-19)*
+
+* [PyCharm Terminal](https://youtu.be/i1js96Ha_OQ) covers usage of the 
+embedded Terminal tool in PyCharm Community Edition, under Windows. Demos 
+running Django's `manage.py`. (2017/08/03, Chris Mahn)
+
+* [Curso Python #05 - Instalando o PyCharm e o QPython3](https://youtu.be/ElRd0cbXIv4) 
+Nesta aula, veremos como instalar e configurar a IDE (Integrated Development 
+Environment) Python chamada PyCharm no Windows, MacOS e 
+Linux.  (2017/05/05, Curso em Video)
 
 ## Plugins
 
