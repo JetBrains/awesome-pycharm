@@ -69,6 +69,11 @@ reformatting files, generating imports with quick fix. *(2017/08/05, Chris Mahn)
 integrates MongoDB Servers with database/collections tree, Query Runner and 
 Shell console. *(2017-12-12)*
 
+## Live Templates
+
+* [Flask PyCharm Templates](https://github.com/mstuttgart/flask-pycharm-templates)
+Collection of live templates to help you develop Flask web applications. *(2017-10-08, Michell Stuttgart)*
+
 # Contributing
 
 Your contributions are always welcome! Please take a look at the 
