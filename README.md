@@ -6,8 +6,19 @@ A curated list of resources for learning and using
 [PyCharm](https://www.jetbrains.com/pycharm), 
 an IDE for Python.
 
-
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+
+## Contents
+
+- [Awesome PyCharm](#awesome-pycharm)
+    - [Articles](#articles)
+    - [Tutorials](#tutorials)
+    - [Videos](#videos)
+    - [Plugins](#plugins)
+    - [Live Templates](#live-templates)
+- [Contributing](#contributing)
+
+- - -
 
 ## Articles
 
