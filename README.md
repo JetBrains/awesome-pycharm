@@ -55,6 +55,8 @@ will know how to run your very first Python script. *(2017-05-19)*
 embedded Terminal tool in PyCharm Community Edition, under Windows. Demos 
 running Django's `manage.py`. *(2017/08/03, Chris Mahn)*
 
+* [PyCharm tips and tricks](https://youtu.be/SVxuUGjB8YU) demonstrates many not so obvious, but super useful features and hotkeys *(2017/07/12, Dmitry Trofimov)* 
+
 * [Django Creación de nuestro primer proyecto con Django en PyCharm](https://youtu.be/oX0SoU9OHnE) 
 *(2017/06/14, KeepCoding)*
 
