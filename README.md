@@ -22,6 +22,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Articles
 
+* [Configure PyCharm for Python/Django and Introduction to Django Rest Framework](https://medium.com/@srijan.pydev_21998/configure-pycharm-for-python-django-and-introduction-to-django-rest-framework-f9c1a7cb4ba0) 
+is a walkthrough to get most out of PyCharm while working with Django. *(2018/04/07, Srijan Anand)*
+
 * [A Look at PyCharm Python IDE for Linux](https://www.ghacks.net/2017/10/12/pycharm-python-ide-linux/) 
 discusses PyCharm as an IDE plus installation instructions for Linux Mint 
 using a PPA. *(2017/10/12, Mike Turcotte)*
