@@ -49,6 +49,8 @@ course by Michael Kennedy which features PyCharm. *(2017/10/11, Michael Kennedy)
 
 ## Videos
 
+### English
+
 * [Python Beginner Tutorial 1 - Install and Setup PyCharm IDE](https://youtu.be/0y5XlNeFxNk) 
 covers the installation of the latest version of Python 3 and installation 
 and setup of the Free JetBrains PyCharm IDE. After watching this video you 
@@ -60,14 +62,6 @@ running Django's `manage.py`. *(2017/08/03, Chris Mahn)*
 
 * [PyCharm tips and tricks](https://youtu.be/SVxuUGjB8YU) demonstrates many not so obvious, but super useful features and hotkeys *(2017/07/12, Dmitry Trofimov)* 
 
-* [Django Creación de nuestro primer proyecto con Django en PyCharm](https://youtu.be/oX0SoU9OHnE) 
-*(2017/06/14, KeepCoding)*
-
-* [Curso Python #05 - Instalando o PyCharm e o QPython3](https://youtu.be/ElRd0cbXIv4) 
-Nesta aula, veremos como instalar e configurar a IDE (Integrated Development 
-Environment) Python chamada PyCharm no Windows, MacOS e 
-Linux.  *(2017/05/05, Curso em Video)*
-
 * [django-bootstrap3 Pycharm Module Install](https://youtu.be/5y9Z_BhEr5Q)  Use PyCharm to install this plugin 
  into an existing Django project. *(2017/08/19, Chris Mahn)*
 
@@ -78,6 +72,17 @@ indicators, commit and push. *(2017/09/26, Chris Mahn)*
 
 * [Pycharm Reformatting](https://youtu.be/JZ_xuPiK-UA) shows 
 reformatting files, generating imports with quick fix. *(2017/08/05, Chris Mahn)*
+
+### Spanish
+
+* [Django Creación de nuestro primer proyecto con Django en PyCharm](https://youtu.be/oX0SoU9OHnE) 
+*(2017/06/14, KeepCoding)*
+
+* [Curso Python #05 - Instalando o PyCharm e o QPython3](https://youtu.be/ElRd0cbXIv4) 
+Nesta aula, veremos como instalar e configurar a IDE (Integrated Development 
+Environment) Python chamada PyCharm no Windows, MacOS e 
+Linux.  *(2017/05/05, Curso em Video)*
+
 
 ## Plugins
 
