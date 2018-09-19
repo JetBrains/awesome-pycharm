@@ -73,6 +73,8 @@ indicators, commit and push. *(2017/09/26, Chris Mahn)*
 * [Pycharm Reformatting](https://youtu.be/JZ_xuPiK-UA) shows 
 reformatting files, generating imports with quick fix. *(2017/08/05, Chris Mahn)*
 
+* [Productive pytest with PyCharm](https://youtu.be/ixqeebhUa-w) helps level up pytest skill. *(2018/02/26, Brian Okken)*
+
 ### Spanish
 
 * [Django Creación de nuestro primer proyecto con Django en PyCharm](https://youtu.be/oX0SoU9OHnE) 
