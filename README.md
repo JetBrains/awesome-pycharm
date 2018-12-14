@@ -29,7 +29,7 @@ is a walkthrough to get the most out of PyCharm Professional while working with 
 discusses PyCharm as an IDE plus installation instructions for Linux Mint 
 using a PPA. *(2017/10/12, Mike Turcotte)*
 
-* [Integrating PyCharm with Pyenv](http://victormartinez.co/2017/08/04/integrating-pycharm-with-pyenv/)  shows how to use 
+* [Integrating PyCharm with Pyenv](http://vcrmartinez.com/2017/08/04/integrating-pycharm-with-pyenv/)  shows how to use 
 [pyenv](https://github.com/pyenv/pyenv) (the Python version management tool) 
 from within PyCharm. *(2017/08/04, Viktor Martinez)*
 
