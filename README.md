@@ -97,6 +97,11 @@ Shell console. *(2017-12-12)*
 * [Flask PyCharm Templates](https://github.com/mstuttgart/flask-pycharm-templates)
 Collection of live templates to help you develop Flask web applications. *(2017-10-08, Michell Stuttgart)*
 
+## Themes
+
+* [PyCharm Color Schemes](https://github.com/mstuttgart/pycharm-color-scheme)
+Collection of themes adapted to use with this IDE. *(2019-10-01, Michell Stuttgart)*
+
 # Contributing
 
 Your contributions are always welcome! Please take a look at the 
