@@ -88,9 +88,28 @@ Linux.  *(2017/05/05, Curso em Video)*
 
 ## Plugins
 
-* [MongoDB Plugin for IntelliJ](https://plugins.jetbrains.com/plugin/7141-mongo-plugin) 
+* Database and Frameworks
+  * [MongoDB Plugin for IntelliJ](https://plugins.jetbrains.com/plugin/7141-mongo-plugin) 
 integrates MongoDB Servers with database/collections tree, Query Runner and 
 Shell console. *(2017-12-12)*
+  * [JS GraphQL](https://plugins.jetbrains.com/plugin/8097-js-graphql/) provides GraphQL support directly inside PyCharm.
+* Editor
+  * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) provides a minimap for your editor, similar to Sublime.
+  * [Open in Splitted Tab](https://plugins.jetbrains.com/plugin/7407-open-in-splitted-tab/) adds a PyCharm command to open a definition in a new splitted tab.
+* Code Analysis
+  * [DeepBugs](https://plugins.jetbrains.com/plugin/12218-deepbugs-for-python/) is an experimental plugin to detect bugs in Python. Does sometimes result in false positives.
+  * [Sourcery](https://plugins.jetbrains.com/plugin/12631-sourcery) provides a list of refactoring recommendations to simplify your codebase. [freemium]
+  * [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/) provides grammar and advanced spell checking.
+  * [Python Security](https://plugins.jetbrains.com/plugin/13609-python-security/) helps you spot security problems in libraries and code.
+* Integration
+  * [Code Review for BitBucket](https://plugins.jetbrains.com/plugin/13538-code-review-for-bitbucket/) lets you manage BitBucket pull requests from inside the IDE. [paid]
+* File Type Support
+  * [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements/) adds extra support for `requirements.txt` files.
+  * [Idealog](https://plugins.jetbrains.com/plugin/9746-ideolog/) views log files.
+  * [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore/) provides support for `.gitignore` and other ignore file lists.
+  * [.env](https://plugins.jetbrains.com/plugin/9525--env-files-support/) support for `.env` environment variable definitions.
+  * [Pug](https://plugins.jetbrains.com/plugin/7094-pug-ex-jade-/) template support plugin.
+  * [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons/) provides icons for a lot more file types.
 
 ## Live Templates
 
