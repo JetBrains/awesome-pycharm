@@ -16,4 +16,5 @@ name if the resource is done by a company.
 * Don't mention `PyCharm` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
-* Send a Pull Request with the reason why the library is awesome.
+* Send a Pull Request with the reason why the library
+Your app  is awesome.
