@@ -66,10 +66,6 @@ running Django's `manage.py`. *(2017/08/03, Chris Mahn)*
  into an existing Django project. *(2017/08/19, Chris Mahn)*
 
 
-* [Pycharm Github Tutorial](https://youtu.be/h2ePD5kjjaM) covers PyCharm as a 
-frontend to VCS and GitHub: register project, add files and commit, color 
-indicators, commit and push. *(2017/09/26, Chris Mahn)*
-
 * [Pycharm Reformatting](https://youtu.be/JZ_xuPiK-UA) shows 
 reformatting files, generating imports with quick fix. *(2017/08/05, Chris Mahn)*
 
