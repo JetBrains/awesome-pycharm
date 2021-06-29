@@ -93,7 +93,6 @@ Shell console. *(2017-12-12)*
   * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) provides a minimap for your editor, similar to Sublime.
   * [Open in Splitted Tab](https://plugins.jetbrains.com/plugin/7407-open-in-splitted-tab/) adds a PyCharm command to open a definition in a new splitted tab.
 * Code Analysis
-  * [DeepBugs](https://plugins.jetbrains.com/plugin/12218-deepbugs-for-python/) is an experimental plugin to detect bugs in Python. Does sometimes result in false positives.
   * [Sourcery](https://plugins.jetbrains.com/plugin/12631-sourcery) provides a list of refactoring recommendations to simplify your codebase. [freemium]
   * [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/) provides grammar and advanced spell checking.
   * [Python Security](https://plugins.jetbrains.com/plugin/13609-python-security/) helps you spot security problems in libraries and code.
