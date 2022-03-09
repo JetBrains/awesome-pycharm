@@ -76,11 +76,12 @@ reformatting files, generating imports with quick fix. *(2017/08/05, Chris Mahn)
 * [Django Creación de nuestro primer proyecto con Django en PyCharm](https://youtu.be/oX0SoU9OHnE) 
 *(2017/06/14, KeepCoding)*
 
+### Portuguese
+
 * [Curso Python #05 - Instalando o PyCharm e o QPython3](https://youtu.be/ElRd0cbXIv4) 
 Nesta aula, veremos como instalar e configurar a IDE (Integrated Development 
 Environment) Python chamada PyCharm no Windows, MacOS e 
 Linux.  *(2017/05/05, Curso em Video)*
-
 
 ## Plugins
 
